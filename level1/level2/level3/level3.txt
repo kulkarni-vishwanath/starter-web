@@ -1,1 +1,0 @@
-Copy some text and save and close the file. 
