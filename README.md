@@ -6,7 +6,7 @@ This repository is for showing how Git and GitHub work together
 This example is to show different parts of the git repository various commands using a web project. 
 ## Purpose
 
-Sample website with plenty of files for demos
+As stated above the main purpose is to provide simple examples for git training demos.
 
 ## Deployment
 
