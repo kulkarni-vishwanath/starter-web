@@ -10,4 +10,6 @@ As stated above the main purpose is to provide simple examples for git training 
 
 ## Deployment
 
+This section shows deployment procedure.
+
 ## How to Contribute
